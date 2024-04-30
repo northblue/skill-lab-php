@@ -8,4 +8,4 @@ In my journey to enhance coding skills, I've observed a lack of PHP solutions fo
 
 ## Purpose
 
-This repository aims to be a resourceful collection for PHP developers looking to sharpen their skills through practical problem-solving.is repository can save you a bit time and help you to become a better developer.
+This repository aims to be a resourceful collection for PHP developers looking to sharpen their skills through practical problem-solving. I hope this repository can save you a bit time and help you to become a better developer.
