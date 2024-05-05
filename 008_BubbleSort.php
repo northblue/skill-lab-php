@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Get the biggest element in the given array using bubble sort
+ * Sort the given array using bubble sort
  */
 function bubbleSort($arr) {
     $n = count($arr);
